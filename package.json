@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/zeeoneofc",
   "dependencies": {
-    "@lolikillers/aexm-api": "*",
     "axios": "^0.21.1",
     "base-64": "^1.0.0",
     "base32": "0.0.6",
