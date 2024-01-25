@@ -3,7 +3,7 @@ var __path = process.cwd(),
      { color } = require(__path + '/lib/color.js')
 
 // Connection URL
-var url = 'https://viko-api.herokuapp.com';
+var url = 'mongodb+srv://ajiart01:Ajifu917@cluster0.zebgfie.mongodb.net/?retryWrites=true&w=majority';
 try {
 if(url == 'https://viko-api.herokuapp.com') throw console.log(color('Configurasi database, var url belum diisi','red'));
 } catch (e) {
